@@ -1,21 +1,18 @@
 # A Innovative project, that I wrote to learn Html/Css/Js
 
-## So basic (: 
+# Descipton
 
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+### Some random picture that if you hover on them their **display** gonna set as **noun** and disappeared. 
+### Therefore it's a little hard to click on any of them. 
 <br>
 <br>
 
+# Usage
+### Open the folder with *XAMMP* or any localhost creator, that you want.
 
 
+<br>
+<br>
 
 | Creator         | First Commit Data  |
 | -------         | ----- |
