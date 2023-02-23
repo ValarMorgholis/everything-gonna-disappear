@@ -2,7 +2,7 @@
 
 # Descipton
 
-### Some random picture that if you hover on them their **display** gonna set as **noun** and disappeared. 
+### Some random picture that if you hover on them, their **display** gonna set as **noun** and disappeared. 
 ### Therefore it's a little hard to click on any of them. 
 <br>
 <br>
